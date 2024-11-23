@@ -36,7 +36,6 @@ const open = require('open');
 
 (async () => {
     console.log('Opening 3D View in your default browser...');
-    await open('https://imerso.github.io/babylon.js/facecap/');
 })();
 Run the Node.js script:
 bash
